@@ -1,2 +1,2 @@
-# zkHack
-Implementations for zkHack
+# zkHack-sumcheck
+Sumcheck implementation for zkHack
